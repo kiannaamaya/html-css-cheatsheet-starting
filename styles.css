@@ -14,6 +14,8 @@ table {
     border-left-width: 1px;
     border-bottom-color: darkblue;
     box-shadow: 4px 4px 4px lightgray;
+    margin-left: auto;
+    margin-right: auto;
  }
 
  th {
