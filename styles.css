@@ -1,0 +1,39 @@
+body {
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+}
+h2 {
+    color: darkblue;
+}
+
+table {
+    margin: 1.5em;
+    border-left-width: 1px;
+    border-bottom-color: darkblue;
+    box-shadow: 4px 4px 4px lightgray;
+ }
+
+ th {
+     font-size: 22px;
+     border-bottom: solid darkblue;
+     background-color: darkblue;
+     color: white;
+     border-radius: 6%;
+ }
+ td {
+    font-size: 20px;
+    border-width: 1px;
+    border-bottom: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: darkblue;
+ }
+
+
+ .code {
+     font-family: 'Courier New', Courier, monospace;
+     background-color: lightsteelblue;
+     margin: 0.5em;
+ }
